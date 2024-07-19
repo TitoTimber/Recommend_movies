@@ -6,4 +6,4 @@ The Search button can search any movie that includes the searched title, only if
 
 
 
-NOTE:if the site doesn't load. USE VPN as the TMDB api is currently not available in a few countries(including India). Sorry for the inconvenience.
+NOTE:if the site doesn't load. USE VPN as the TMDB api is currently not available in some regions. Sorry for the inconvenience.
